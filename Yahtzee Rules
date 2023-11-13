@@ -1,0 +1,7 @@
+Types of Hands:
+No. of {1,2,3,4,5,6} --> total of the number
+Three of a Kind --> total of hand
+Four of a Kind --> total of hand
+Full House (Pair + Three of a Kind) --> 25
+Straight --> 40
+Yahtzee (5 of a Kind) --> 50
